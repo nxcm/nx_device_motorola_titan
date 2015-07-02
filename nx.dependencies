@@ -12,10 +12,9 @@
     "revision":   "cm-12.1"
   },
   {
-    "remote":      "github",
-    "repository": "CyanogenMod/android_kernel_motorola_msm8226",
-    "target_path": "kernel/motorola/msm8226",
-    "revision":   "cm-12.1"
+    "remote":     "bitbucket",
+    "repository": "nxcm/nx_kernel_motorola_msm8226",
+    "target_path": "kernel/motorola/msm8226"
   },
   {
     "remote":      "github",
