@@ -2,3 +2,6 @@
 
 # audio
 ro.audio.monitorRotation=1
+
+# Play store
+ro.com.google.clientidbase.gmm=android-motorola
