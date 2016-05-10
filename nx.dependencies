@@ -19,11 +19,5 @@
     "remote":      "bitbucket",
     "repository":  "nexusxm/proprietary_vendor_motorola",
     "target_path": "vendor/motorola"
-  },
-  {
-    "remote":      "github",
-    "repository": "CyanogenMod/android_hardware_qcom_fm",
-    "target_path": "hardware/qcom/fm",
-    "revision":   "cm-13.0"
   }
 ]
